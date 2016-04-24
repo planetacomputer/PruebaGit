@@ -15,7 +15,7 @@ public class PruebaGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hola mundo de David para mostrar Pull Request mi fork");       // TODO code application logic here
+        System.out.println("hola mundo de David para mostrar Pull Request mi fork nueva correcion");       // TODO code application logic here
     }
     
 }
